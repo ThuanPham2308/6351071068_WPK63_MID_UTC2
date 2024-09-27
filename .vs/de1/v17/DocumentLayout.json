@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\user\\downloads\\qlkhoahoc_wp001\\coursespage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\coursespage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:coursespage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\coursespage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:coursespage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\user\\downloads\\qlkhoahoc_wp001\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -15,15 +19,15 @@
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\user\\downloads\\qlkhoahoc_wp001\\managecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\managecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:managecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\user\\downloads\\qlkhoahoc_wp001\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\user\\downloads\\qlkhoahoc_wp001\\app_data\\qlkhoahoc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\app_data\\qlkhoahoc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:app_data\\qlkhoahoc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\CoursesPage.aspx.cs",
+              "RelativeDocumentMoniker": "CoursesPage.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\CoursesPage.aspx.cs",
+              "RelativeToolTip": "CoursesPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:16:04.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ManageCategory.aspx",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\ManageCategory.aspx",
               "RelativeDocumentMoniker": "ManageCategory.aspx",
@@ -67,24 +84,22 @@
               "RelativeToolTip": "ManageCategory.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T08:01:19.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:01:19.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "QLKhoaHoc.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\App_Data\\QLKhoaHoc.edmx",
               "RelativeDocumentMoniker": "App_Data\\QLKhoaHoc.edmx",
               "ToolTip": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\App_Data\\QLKhoaHoc.edmx [Diagram1]",
               "RelativeToolTip": "App_Data\\QLKhoaHoc.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-09-27T06:55:50.9Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-09-27T06:55:50.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Web.sitemap",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\Web.sitemap",
               "RelativeDocumentMoniker": "Web.sitemap",
@@ -92,12 +107,11 @@
               "RelativeToolTip": "Web.sitemap",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
-              "WhenOpened": "2024-09-25T09:53:54.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:53:54.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DefaultPageMaster.Master",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\DefaultPageMaster.Master",
               "RelativeDocumentMoniker": "DefaultPageMaster.Master",
@@ -110,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "home.aspx",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\home.aspx",
               "RelativeDocumentMoniker": "home.aspx",
@@ -123,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\QLKhoaHoc_WP001\\style.css",
               "RelativeDocumentMoniker": "style.css",

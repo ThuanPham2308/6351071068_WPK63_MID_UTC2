@@ -1,6 +1,4 @@
-﻿using de1.App_Data;
-using System;
-using System.Linq;
+﻿using System;
 using System.Web.UI;
 
 namespace de1
@@ -9,8 +7,15 @@ namespace de1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+            if (!IsPostBack)
+            {
+                string category = Request.QueryString["category"];
+                if (!string.IsNullOrEmpty(category))
+                {
+                    // Thiết lập tham số cho EntityDataSource
+                    EntityDataSource1.WhereParameters["category"].DefaultValue = category;
+                }
+            }
         }
-
     }
 }

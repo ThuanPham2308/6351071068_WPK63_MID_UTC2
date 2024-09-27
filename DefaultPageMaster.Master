@@ -5,7 +5,7 @@
 <head runat="server">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HoTen_MSSV_MaDE</title>
+    <title>PhamVanThuan_6351071068_WP001</title>
     <!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -41,8 +41,9 @@
                             <ItemTemplate>
                                 &nbsp;<asp:Literal ID="BulletPoint" runat="server" Text="&#8226; " />
                                 <asp:HyperLink ID="CatNameLink" runat="server"
-                                    NavigateUrl='<%# "coursespage.aspx?category=" + Eval("CatName") %>'
-                                    Text='<%# Eval("CatName") + " (" + Eval("CourseCount") + ")" %>' />
+    NavigateUrl='<%# "CoursesPage.aspx?category=" + Eval("CatName") %>'
+    Text='<%# Eval("CatName") + " (" + Eval("CourseCount") + ")" %>' />
+
                                 <br />
                                 <br />
                             </ItemTemplate>
